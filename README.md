@@ -3,9 +3,9 @@
   <img src="logoo.png" alt="Logo" width="400px"/>
 </p>
 
-## Hey! I'm Dij0n! 🍋
+## Hey! I'm Dijon! 🍋
 
-I'm a Minecraft plugin/mod developer specializing in public servers and minigames! Currently building my own <img src="redacted.gif" alt="REDACTED" width="100px" valign="middle"/> server :]
+I'm a Game Developer & Modder specializing in public servers and minigames! Currently building my own <img src="redacted.gif" alt="REDACTED" width="100px" valign="middle"/> server :]
 
 
 > *Note: most of my projects are under NDA or private, for a showcase of my modern work, please **contact me** for access to a showcase repo :]*
