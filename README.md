@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Dij0n/Dij0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hey! I'm Dij0n! 🍋
+
+I'm a Minecraft plugin/mod developer specializing in public servers and minigames! Currently building my own _**~~[REDACTED]~~**_ server :]
+
+> *Note: most of my projects are under NDA or private, for a showcase of my modern work, please **contact me** for access to a showcase repo :]*
+
+## Projects I've Worked on
+
+> **BiomeBattle**
+> **Arcadia**
+> **Leg.gg**
+> **Infuse/Strength/Bliss SMP**
+> (In Progress) **Personal website so that I can retire this README**
+> (To be revealed :D)
+
+🍋 *Make Things!*  
