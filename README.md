@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="logoo.png" alt="Logo" width="400px"/>
+</p>
 
 ## Hey! I'm Dij0n! 🍋
 
@@ -9,11 +11,11 @@ I'm a Minecraft plugin/mod developer specializing in public servers and minigame
 
 ## Projects I've Worked on
 
-> **BiomeBattle**
-> **Arcadia**
-> **Leg.gg**
-> **Infuse/Strength/Bliss SMP**
-> (In Progress) **Personal website so that I can retire this README**
-> (To be revealed :D)
+- **BiomeBattle**
+- **Arcadia**
+- **Leg.gg**
+- **Infuse/Strength/Bliss SMP**
+- (In Progress) **Personal website so that I can retire this README**
+- (To be revealed :D)
 
 🍋 *Make Things!*  
