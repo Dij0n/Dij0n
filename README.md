@@ -24,6 +24,10 @@ I'm a Game Developer & Modder specializing in public servers and minigames! Curr
     <img src="https://img.shields.io/badge/Leg.gg-1abc9c?style=for-the-badge&logoColor=white" alt="Leg.gg"/>
   </a>  
 
+- <a href="https://www.bumpy.events/">
+    <img src="https://img.shields.io/badge/Bumpy%20Events-ff1600?style=for-the-badge&logoColor=white" alt="Bumpy Events"/>
+  </a>
+
 - <a href="https://twitter.com/BlissSMP">
     <img src="https://img.shields.io/badge/Infuse%20%2F%20Strength%20%2F%20Bliss%20SMP-9b59b6?style=for-the-badge&logoColor=white" alt="Infuse/Strength/Bliss SMP"/>
   </a>
